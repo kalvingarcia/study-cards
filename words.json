@@ -1,0 +1,1566 @@
+[
+    {
+        "category": "la información personal",
+        "words": [
+            {
+                "word": "el nombre",
+                "icon": {
+                    "set": "material",
+                    "name": "id_card"
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": ["word(s) by which a noun (person, animal, place, or thing) is known, addressed, or referred"],
+                    "spanish": [
+                        "palabra(s) que designa(n) o identifica(n) seres animados o inanimados",
+                        "nombre propio"
+                    ]
+                }
+            },
+            {
+                "word": "el apellido",
+                "icon": {
+                    "set": "material",
+                    "name": "family_restroom"
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": ["a hereditary name common to all members of a family"],
+                    "spanish": ["nombre de familia con que se detiguen personas"]
+                }
+            },
+            {
+                "word": "el apodo",
+                "icon": {
+                    "set": "material",
+                    "name": "contacts"
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": ["a familiar or humorous name given to a person or thing instead of or as well as the real name"],
+                    "spanish": ["nombre que suele darse a una persona, tomado de sus defectos corporales o de alguna otra circunstancia"]
+                }
+            },
+            {
+                "word": "el sobrenombre",
+                "icon": {
+                    "set": "material",
+                    "name": "contacts"
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": ["a sobriquet or nickname, especially one given to distinguish people with the same given name"],
+                    "spanish": ["nombre que se añade a veces al apellido para distinguir a dos personas que tienen el mismo"]
+                }
+            },
+            {
+                "word": "el homre",
+                "icon": {
+                    "set": "emoji",
+                    "name": "U+1F9D4"
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": ["an adult male human being"],
+                    "spanish": ["persona del sexo masculino"]
+                }
+            },
+            {
+                "word": "la mujer",
+                "icon": {
+                    "set": "emoji",
+                    "name": "U+1F469"
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": ["an adult female human being"],
+                    "spanish": ["persona del sexo femenino"]
+                }
+            },
+            {
+                "word": "el muchacho/la muchacha",
+                "icon": {
+                    "set": "emoji",
+                    "name": "U+1F9D1"
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino o femenino"
+                },
+                "definition": {
+                    "english": ["young man/woman"],
+                    "spanish": ["persona que se halla en la juventud"]
+                }
+            },
+            {
+                "word": "el señor/la señora",
+                "icon": {
+                    "set": "emoji",
+                    "name": "U+1F468"
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino o femenino"
+                },
+                "definition": {
+                    "english": [
+                        "used as a polite or respectful way of addressing a person (e.g. mister, missus, miss)",
+                        "a person who is a specified number of years older than someone else"
+                    ],
+                    "spanish": [
+                        "persona respetable y de cierta categoría social",
+                        "Persona de cierta edad"
+                    ]
+                }
+            },
+            {
+                "word": "don/doña",
+                "icon": {
+                    "set": "emoji",
+                    "name": "U+1F468"
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino o femenino"
+                },
+                "definition": {
+                    "english": ["used as a polite or respectful way of addressing a person (usually with their first name)"],
+                    "spanish": ["tratamiento de respeto que se antepone a los nombres de pila"]
+                }
+            },
+            {
+                "word": "la edad",
+                "icon": {
+                    "set": "material",
+                    "name": "elderly"
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": ["the length of time that a person has lived or a thing has existed"],
+                    "spanish": ["tiempo que ha vivido una persona o ciertos animales o vegetales", "duración de algunas cosas y entidades abstractas"]
+                }
+            },
+            {
+                "word": "la nacionalidad",
+                "icon": {
+                    "set": "material",
+                    "name": "public"
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": ["an ethnic group forming a part of one or more political nations"],
+                    "spanish": ["condición y carácter peculiar de los pueblos y habitantes de una nación"]
+                }
+            },
+            {
+                "word": "el sexo",
+                "icon": {
+                    "set": "material",
+                    "name": "transgender"
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": ["either of the two main categories (male and female) into which living things are divided on the basis of their reproductive functions."],
+                    "spanish": ["condición orgánica, masculina o femenina, de los animales y las plantas"]
+                }
+            },
+            {
+                "word": "el varón",
+                "icon": {
+                    "set": "material",
+                    "name": "male"
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [""],
+                    "spanish": [""]
+                }
+            },
+            {
+                "word": "la hembra",
+                "icon": {
+                    "set": "material",
+                    "name": "female"
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": [""],
+                    "spanish": [""]
+                }
+            }
+        ]
+    },
+    {
+        "category": "el tiempo y la hora",
+        "words": [
+            {
+                "word": "el año",
+                "icon": {
+                    "set": "emoji",
+                    "name": "U+1F5D3"
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": ["the period of 365 days starting from the first of January, used for reckoning time in ordinary affairs."],
+                    "spanish": ["período de doce meses, a contar desde el día 1 de enero hasta el 31 de diciembre, ambos inclusive"]
+                }
+            },
+            {
+                "word": "la fecha",
+                "icon": {
+                    "set": "emoji",
+                    "name": "U+1F4C5"
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": ["the day of the month or year as specified by a number"],
+                    "spanish": ["indicación del tiempo, y a veces del lugar, en que se hace o sucede algo", "tiempo o momento actuales"]
+                }
+            }
+        ]
+    },
+    {
+        "category": "el mundo y el espacio",
+        "words": [
+            {
+                "word": "la ciudad",
+                "icon": {
+                    "set": "emoji",
+                    "name": "U+1F3D9"
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": ["a large town"],
+                    "spanish": ["conjunto de edificios y calles, cuya población es densa y numerosa"]
+                }
+            },
+            {
+                "word": "el lugar",
+                "icon": {
+                    "set": "material",
+                    "name": "pin_drop"
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": ["a particular position or point in space"],
+                    "spanish": ["porción de espacio", "sitio o paraje"]
+                }
+            },
+            {
+                "word": "la calle",
+                "icon": {
+                    "set": "material",
+                    "name": "road"
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": ["a public road in a city or town, typically with houses and buildings on one or both sides"],
+                    "spanish": ["vía pública, habitualmente asfaltada o empedrada, entre edificios o solares"]
+                }
+            }
+        ]
+    },
+    {
+        "category": "la familia",
+        "words": [
+            {
+                "word": "la familia",
+                "icon": {
+                    "set": "material",
+                    "name": "family_restroom"
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": ["a group of one or more parents and their children living together as a unit"],
+                    "spanish": ["grupo de personas vinculadas por relaciones de matrimonio, parentesco, convivencia o afinidad."]
+                }
+            },
+            {
+                "word": "el abuelo/la abuela",
+                "icon": {
+                    "set": "emoji",
+                    "name": "U+1F9D3"
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino o femenino"
+                },
+                "definition": {
+                    "english": ["a parent of one's parent"],
+                    "spanish": ["padre o madre de uno de los padres de una persona"]
+                }
+            },
+            {
+                "word": "el bisabuelo/la bisabuela",
+                "icon": {
+                    "set": "emoji",
+                    "name": "U+1F9D3"
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino o femenino"
+                },
+                "definition": {
+                    "english": ["a parent of one's grandparent"],
+                    "spanish": ["padre o madre de uno de los abuelos de una persona"]
+                }
+            },
+            {
+                "word": "el padre/papá/papi",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": ["a man in relation to his child or children"],
+                    "spanish": ["varón que ha engendrado uno o más hijos"]
+                }
+            },
+            {
+                "word": "el padrastro",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": ["the husband of one's parent after the separation of the parents"],
+                    "spanish": ["marido de uno de los padres de una persona nacida de una unión anterior de aquella"]
+                }
+            },
+            {
+                "word": "padrino",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": ["a man who presents a child at a Christian sacrament"],
+                    "spanish": ["hombre que acompaña a quien recibe algún sacramento cristiano"]
+                }
+            },
+            {
+                "word": "la madre/mamá/mami",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": ["a womman in relation to his child or children"],
+                    "spanish": ["hembra que ha concebido o ha parido uno o más hijos"]
+                }
+            },
+            {
+                "word": "la madrastra",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": ["the wife of one's parent after the separation of the parents"],
+                    "spanish": ["mujer de uno de los padres de una persona nacida de una unión anterior de aquella"]
+                }
+            },
+            {
+                "word": "madrina",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": ["a woman who presents a child at a Christian sacrament"],
+                    "spanish": ["mujer que acompaña a quien recibe algún sacramento cristiano"]
+                }
+            },
+            {
+                "word": "el marido",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "",
+                    "spanish": ""
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": ["hombre casado, con relación a su cónyuge"]
+                }
+            },
+            {
+                "word": "la mujer",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "",
+                    "spanish": ""
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": ["mujer casada, con relación a su cónyuge"]
+                }
+            },
+            {
+                "word": "el esposo/la esposa",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "",
+                    "spanish": ""
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": ["persona casada, con relación a su cónyuge"]
+                }
+            },
+            {
+                "word": "el suegro/la suegra",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "",
+                    "spanish": ""
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el yerno",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "",
+                    "spanish": ""
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "la nuera",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "",
+                    "spanish": ""
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el compañero/la compañera",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "",
+                    "spanish": ""
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "la pareja",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "",
+                    "spanish": ""
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el novio/la novia",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "",
+                    "spanish": ""
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el hijo/la hija",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "",
+                    "spanish": ""
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el ahijado/la ahijada",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "",
+                    "spanish": ""
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el hermano/la hermana",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "",
+                    "spanish": ""
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el tío/la tía",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "",
+                    "spanish": ""
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "tito/tita/tití",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "",
+                    "spanish": ""
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el tío abuelo/la tía abuela",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "",
+                    "spanish": ""
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el primo/la prima",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "",
+                    "spanish": ""
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el sobrino/la sobrina",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "",
+                    "spanish": ""
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el nieto/ la nieta",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "",
+                    "spanish": ""
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            }
+        ]
+    },
+    {
+        "category": "los numeros",
+        "words": [
+            {
+                "word": "uno/un(a)",
+                "icon": null,
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": {
+                    "english": ["1"],
+                    "spanish": ["1"]
+                }
+            },
+            {
+                "word": "dos",
+                "icon": null,
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": {
+                    "english": ["2"],
+                    "spanish": ["2"]
+                }
+            },
+            {
+                "word": "tres",
+                "icon": null,
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": {
+                    "english": ["3"],
+                    "spanish": ["3"]
+                }
+            },
+            {
+                "word": "cuatro",
+                "icon": null,
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": {
+                    "english": ["4"],
+                    "spanish": ["4"]
+                }
+            },
+            {
+                "word": "cinco",
+                "icon": null,
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": {
+                    "english": ["5"],
+                    "spanish": ["5"]
+                }
+            },
+            {
+                "word": "seis",
+                "icon": null,
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": {
+                    "english": ["6"],
+                    "spanish": ["6"]
+                }
+            },
+            {
+                "word": "siete",
+                "icon": null,
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": {
+                    "english": ["7"],
+                    "spanish": ["7"]
+                }
+            },
+            {
+                "word": "ocho",
+                "icon": null,
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": {
+                    "english": ["8"],
+                    "spanish": ["8"]
+                }
+            },
+            {
+                "word": "nueve",
+                "icon": null,
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": {
+                    "english": ["9"],
+                    "spanish": ["9"]
+                }
+            },
+            {
+                "word": "diez",
+                "icon": null,
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": {
+                    "english": ["10"],
+                    "spanish": ["10"]
+                }
+            },
+            {
+                "word": "once",
+                "icon": null,
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": {
+                    "english": ["11"],
+                    "spanish": ["11"]
+                }
+            },
+            {
+                "word": "doce",
+                "icon": null,
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": {
+                    "english": ["12"],
+                    "spanish": ["12"]
+                }
+            },
+            {
+                "word": "trece",
+                "icon": null,
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": {
+                    "english": ["13"],
+                    "spanish": ["13"]
+                }
+            },
+            {
+                "word": "catroce",
+                "icon": null,
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": {
+                    "english": ["14"],
+                    "spanish": ["14"]
+                }
+            },
+            {
+                "word": "quince",
+                "icon": null,
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": {
+                    "english": ["15"],
+                    "spanish": ["15"]
+                }
+            },
+            {
+                "word": "veinte",
+                "icon": null,
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": {
+                    "english": ["20"],
+                    "spanish": ["20"]
+                }
+            },
+            {
+                "word": "treinta",
+                "icon": null,
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": {
+                    "english": ["30"],
+                    "spanish": ["30"]
+                }
+            },
+            {
+                "word": "cuarenta",
+                "icon": null,
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": {
+                    "english": ["40"],
+                    "spanish": ["40"]
+                }
+            },
+            {
+                "word": "cincuenta",
+                "icon": null,
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": {
+                    "english": ["50"],
+                    "spanish": ["50"]
+                }
+            },
+            {
+                "word": "sesenta",
+                "icon": null,
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": {
+                    "english": ["60"],
+                    "spanish": ["60"]
+                }
+            },
+            {
+                "word": "setenta",
+                "icon": null,
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": {
+                    "english": ["70"],
+                    "spanish": ["70"]
+                }
+            },
+            {
+                "word": "noventa",
+                "icon": null,
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": {
+                    "english": ["90"],
+                    "spanish": ["90"]
+                }
+            },
+            {
+                "word": "cien/ciento",
+                "icon": null,
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": {
+                    "english": ["100"],
+                    "spanish": ["100"]
+                }
+            },
+            {
+                "word": "quinientos",
+                "icon": null,
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": {
+                    "english": ["500"],
+                    "spanish": ["500"]
+                }
+            },
+            {
+                "word": "mil",
+                "icon": null,
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": {
+                    "english": ["1,000"],
+                    "spanish": ["1,000"]
+                }
+            },
+            {
+                "word": "millón",
+                "icon": null,
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": {
+                    "english": ["1,000,000"],
+                    "spanish": ["1,000,000"]
+                }
+            },
+            {
+                "word": "billón",
+                "icon": null,
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": {
+                    "english": ["1,000,000,000,000"],
+                    "spanish": ["1,000,000,000,000"]
+                }
+            }
+        ]
+    },
+    {
+        "category": "los colores",
+        "words": [
+            {
+                "word": "rojo(a)",
+                "icon": {
+                    "set": "color",
+                    "name": "#e32b1e"
+                },
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": null
+            },
+            {
+                "word": "anaranjado(a)",
+                "icon": {
+                    "set": "color",
+                    "name": "#e37d1e"
+                },
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": null
+            },
+            {
+                "word": "amarillo(a)",
+                "icon": {
+                    "set": "color",
+                    "name": "#ecf007"
+                },
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": null
+            },
+            {
+                "word": "verde",
+                "icon": {
+                    "set": "color",
+                    "name": "#5cf007"
+                },
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": null
+            },
+            {
+                "word": "azúl",
+                "icon": {
+                    "set": "color",
+                    "name": "#079af0"
+                },
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": null
+            },
+            {
+                "word": "morado(a)",
+                "icon": {
+                    "set": "color",
+                    "name": "#aa07f0"
+                },
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": null
+            },
+            {
+                "word": "violeta",
+                "icon": {
+                    "set": "color",
+                    "name": "#7b07f0"
+                },
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": null
+            },
+            {
+                "word": "lila",
+                "icon": {
+                    "set": "color",
+                    "name": "#c660eb"
+                },
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": null
+            },
+            {
+                "word": "rosa/rosado(a)",
+                "icon": {
+                    "set": "color",
+                    "name": "#eb81b4"
+                },
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": null
+            },
+            {
+                "word": "café",
+                "icon": {
+                    "set": "color",
+                    "name": "#422511"
+                },
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": null
+            },
+            {
+                "word": "marrón",
+                "icon": {
+                    "set": "color",
+                    "name": "#543a21"
+                },
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": null
+            },
+            {
+                "word": "marrón",
+                "icon": {
+                    "set": "color",
+                    "name": "#543a21"
+                },
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": null
+            },
+            {
+                "word": "gris",
+                "icon": {
+                    "set": "color",
+                    "name": "#6e6e6e"
+                },
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": null
+            },
+            {
+                "word": "negro(a)",
+                "icon": {
+                    "set": "color",
+                    "name": "#0f0f0f"
+                },
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": null
+            },
+            {
+                "word": "blanco(a)",
+                "icon": {
+                    "set": "color",
+                    "name": "#f5f5f5"
+                },
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": null
+            },
+            {
+                "word": "dorado(a)",
+                "icon": {
+                    "set": "color",
+                    "name": "#b89546"
+                },
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": null
+            },
+            {
+                "word": "plateado(a)",
+                "icon": {
+                    "set": "color",
+                    "name": "#9cacba"
+                },
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": null
+            },
+            {
+                "word": "bronce",
+                "icon": {
+                    "set": "color",
+                    "name": "#4d3a28"
+                },
+                "partOfSpeech": {
+                    "english": "adjective",
+                    "spanish": "adjetivo"
+                },
+                "definition": null
+            }
+        ]
+    },
+    {
+        "category": "las figuras geométricas",
+        "words": [
+            {
+                "word": "el círculo",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "",
+                    "spanish": ""
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el semicírculo",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "",
+                    "spanish": ""
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el óvulo",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "",
+                    "spanish": ""
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el triángulo",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "",
+                    "spanish": ""
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el rectángulo",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "",
+                    "spanish": ""
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el romboide",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "",
+                    "spanish": ""
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el cuadrado",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "",
+                    "spanish": ""
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el rombo",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "",
+                    "spanish": ""
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el trapecio",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "",
+                    "spanish": ""
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el pentágono",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "",
+                    "spanish": ""
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el hexágono",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "",
+                    "spanish": ""
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "la estrella",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "",
+                    "spanish": ""
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "la esfera",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "",
+                    "spanish": ""
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el cilindro",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "",
+                    "spanish": ""
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el pirámide",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "",
+                    "spanish": ""
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el cono",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "",
+                    "spanish": ""
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "la prisma",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "",
+                    "spanish": ""
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el cubo",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "",
+                    "spanish": ""
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            }
+        ]
+    },
+    {
+        "category": "",
+        "words": [
+            {
+                "word": "",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "",
+                    "spanish": ""
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            }
+        ]
+    }
+]

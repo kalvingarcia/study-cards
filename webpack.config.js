@@ -38,11 +38,10 @@ const exports = {
             },
             {
                 test: /\.(woff|woff2|eot|ttf|otf)$/,
-                use: [
-                    {
-                        loader: 'file-loader',
-                    },
-                ],
+                type: "asset/resource",
+                generator: {
+                    filename: 'fonts/[name][ext]',
+                }
             },
             {
                 test: /\.(png|jpe?g|gif)$/i,

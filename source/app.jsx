@@ -1,20 +1,38 @@
 import React from 'react';
 import {createRoot} from 'react-dom/client';
-import {BrowserRouter, Route, Routes} from 'react-router';
+import {HashRouter, Route, Routes} from 'react-router';
+import { GlobalStyles } from 'tss-react';
 import ThemeProvider from './components/common/theme';
 import Layout from './components/layout';
 import Home from './content/home';
+import AtkinsonNormal from '../public/fonts/AtkinsonNormal.woff2';
+import AtkinsonItalic from '../public/fonts/AtkinsonItalic.woff2';
 
 function App() {
     return (
         <ThemeProvider>
-            <BrowserRouter>
+            <GlobalStyles styles={{
+                "@font": {
+                    fontFamily: "AtkinsonNOormal",
+                    src: `url(${AtkinsonNormal})`,
+                    fontStyle: "normal",
+                },
+                "@font": {
+                    fontFamily: "AtkinsonItalic",
+                    src: `url(${AtkinsonItalic})`,
+                    fontStyle: "italic",
+                },
+                "html, body": {
+                    fontFamily: "AtkinsonNormal"
+                }
+            }} />
+            <HashRouter>
                 <Routes>
                     <Route element={<Layout />}>
                         <Route path="/" element={<Home />} />
                     </Route>
                 </Routes>
-            </BrowserRouter>
+            </HashRouter>
         </ThemeProvider>
     );
 }

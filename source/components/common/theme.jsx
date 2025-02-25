@@ -1,6 +1,7 @@
 import React, {createContext, useContext, useEffect, useRef, useState} from 'react';
 import {createTss, GlobalStyles} from 'tss-react';
 import Color from 'color';
+import MaterialIcons from './assets/MaterialIcons.woff2';
 
 // The colors for the default palette.
 const oxford = "#011638";
@@ -163,7 +164,15 @@ export default function ThemeProvider({darkModeDefault = true, themeDefault = "d
         changeTheme(theme.name);
     }, [darkMode]);
 
+    console.log(MaterialIcons);
+
     const defaults = {
+        "@font": {
+            fontFamily: "MaterialIcons",
+            src: `url(${MaterialIcons})`,
+            fontWeight: "normal",
+            fontStyle: "normal",
+        },
         "*": {
             scrollbarWidth: "thin",
             scrollbarColor: `${theme.primary.accent.hex()} ${theme.primary.container.alpha(0.5).hexa()}`,
@@ -203,8 +212,6 @@ export default function ThemeProvider({darkModeDefault = true, themeDefault = "d
             minHeight: "100vh",
             lineHeight: 1,
             overscrollBehavior: "none", // This part was specifically to avoid MacOS overscroll, which was bugging me.
-    
-            fontFamily: "var(--body)",
             fontWeight: "400",
             fontStyle: "normal"
         },
@@ -236,7 +243,7 @@ export default function ThemeProvider({darkModeDefault = true, themeDefault = "d
             scrollMarginBlock: "5ex"
         },
         ".material-icons": {
-            fontFamily: "",
+            fontFamily: "MaterialIcons",
             fontWeight: "normal",
             fontStyle: "normal",
             display: "inline-block",

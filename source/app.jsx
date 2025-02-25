@@ -1,9 +1,10 @@
 import React from 'react';
 import {createRoot} from 'react-dom/client';
 import {HashRouter, Route, Routes} from 'react-router';
-import { GlobalStyles } from 'tss-react';
+import {GlobalStyles} from 'tss-react';
 import ThemeProvider from './components/common/theme';
 import Layout from './components/layout';
+import Test from './content/test';
 import Home from './content/home';
 import AtkinsonNormal from '../public/fonts/AtkinsonNormal.woff2';
 import AtkinsonItalic from '../public/fonts/AtkinsonItalic.woff2';
@@ -29,7 +30,7 @@ function App() {
             <HashRouter>
                 <Routes>
                     <Route element={<Layout />}>
-                        <Route path="/" element={<Home />} />
+                        <Route path="/" element={<Test />} />
                     </Route>
                 </Routes>
             </HashRouter>

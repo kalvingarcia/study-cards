@@ -12,8 +12,7 @@ function App() {
             <HashRouter>
                 <Routes>
                     <Route element={<Layout />}>
-                        <Route path="/" element={<Home />} />
-                        <Route path="/test" element={<Test />} />
+                        <Route path="/" element={<Test />} />
                     </Route>
                 </Routes>
             </HashRouter>

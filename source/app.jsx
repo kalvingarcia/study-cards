@@ -1,6 +1,6 @@
 import React from 'react';
 import {createRoot} from 'react-dom/client';
-import {HashRouter, HashRouter, Route, Routes} from 'react-router';
+import {HashRouter, Route, Routes} from 'react-router';
 import ThemeProvider from './components/common/theme';
 import Layout from './components/layout';
 import Home from './content/home';

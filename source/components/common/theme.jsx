@@ -1,7 +1,7 @@
 import React, {createContext, useContext, useEffect, useRef, useState} from 'react';
 import {createTss, GlobalStyles} from 'tss-react';
 import Color from 'color';
-import MaterialIcons from './assets/MaterialIcons.woff2';
+import 'material-icons/iconfont/material-icons.css';
 
 // The colors for the default palette.
 const oxford = "#011638";
@@ -164,15 +164,7 @@ export default function ThemeProvider({darkModeDefault = true, themeDefault = "d
         changeTheme(theme.name);
     }, [darkMode]);
 
-    console.log(MaterialIcons);
-
     const defaults = {
-        "@font": {
-            fontFamily: "MaterialIcons",
-            src: `url(${MaterialIcons})`,
-            fontWeight: "normal",
-            fontStyle: "normal",
-        },
         "*": {
             scrollbarWidth: "thin",
             scrollbarColor: `${theme.primary.accent.hex()} ${theme.primary.container.alpha(0.5).hexa()}`,
@@ -208,6 +200,7 @@ export default function ThemeProvider({darkModeDefault = true, themeDefault = "d
             width: "100%",
             minWidth: "100%",
             maxWidth: "100%",
+            height: "100%",
             overflowX: "hidden",
             minHeight: "100vh",
             lineHeight: 1,
@@ -241,23 +234,6 @@ export default function ThemeProvider({darkModeDefault = true, themeDefault = "d
         },
         ":target": {
             scrollMarginBlock: "5ex"
-        },
-        ".material-icons": {
-            fontFamily: "MaterialIcons",
-            fontWeight: "normal",
-            fontStyle: "normal",
-            display: "inline-block",
-            lineHeight: 1,
-            textTransform: "none",
-            letterSpacing: "normal",
-            wordWrap: "normal",
-            whiteSpace: "nowrap",
-            direction: "ltr",
-    
-            WebkitFontSmoothing: "antialiased",
-            textRendering: "optimizeLegibility",
-            MosOsxFontSmoothing: "grayscale",
-            fontFeatureSettings: "'liga'"
         }
     };
 
@@ -265,9 +241,7 @@ export default function ThemeProvider({darkModeDefault = true, themeDefault = "d
         <ThemeContext.Provider value={{theme, palettes: paletteDictionary.current, changeTheme, addPalette, removePalette}}>
             <DarkModeContext.Provider value={{darkMode, toggleDarkMode}}>
                 <GlobalStyles styles={defaults} />
-                <main id="root">
-                    {children}
-                </main>
+                {children}
             </DarkModeContext.Provider>
         </ThemeContext.Provider>
     );

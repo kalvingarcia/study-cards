@@ -6,7 +6,7 @@
                 "word": "el nombre",
                 "icon": {
                     "set": "material",
-                    "name": "id_card"
+                    "name": "badge"
                 },
                 "partOfSpeech": {
                     "english": "noun",

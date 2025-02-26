@@ -69,7 +69,7 @@
                 "word": "el homre",
                 "icon": {
                     "set": "emoji",
-                    "name": "U+1F9D4"
+                    "name": "0x1F9D4"
                 },
                 "partOfSpeech": {
                     "english": "noun",
@@ -84,7 +84,7 @@
                 "word": "la mujer",
                 "icon": {
                     "set": "emoji",
-                    "name": "U+1F469"
+                    "name": "0x1F469"
                 },
                 "partOfSpeech": {
                     "english": "noun",
@@ -99,7 +99,7 @@
                 "word": "el muchacho/la muchacha",
                 "icon": {
                     "set": "emoji",
-                    "name": "U+1F9D1"
+                    "name": "0x1F9D1"
                 },
                 "partOfSpeech": {
                     "english": "noun",
@@ -114,7 +114,7 @@
                 "word": "el señor/la señora",
                 "icon": {
                     "set": "emoji",
-                    "name": "U+1F468"
+                    "name": "0x1F468"
                 },
                 "partOfSpeech": {
                     "english": "noun",
@@ -135,7 +135,7 @@
                 "word": "don/doña",
                 "icon": {
                     "set": "emoji",
-                    "name": "U+1F468"
+                    "name": "0x1F468"
                 },
                 "partOfSpeech": {
                     "english": "noun",
@@ -202,8 +202,8 @@
                     "spanish": "nombre masculino"
                 },
                 "definition": {
-                    "english": [""],
-                    "spanish": [""]
+                    "english": ["person of the masculine sex"],
+                    "spanish": ["persona del sexo masculino"]
                 }
             },
             {
@@ -217,8 +217,8 @@
                     "spanish": "nombre femenino"
                 },
                 "definition": {
-                    "english": [""],
-                    "spanish": [""]
+                    "english": ["person of the feminine sex"],
+                    "spanish": ["persona del sexo femenino"]
                 }
             }
         ]
@@ -230,7 +230,7 @@
                 "word": "el año",
                 "icon": {
                     "set": "emoji",
-                    "name": "U+1F5D3"
+                    "name": "0x1F5D3"
                 },
                 "partOfSpeech": {
                     "english": "noun",
@@ -245,7 +245,7 @@
                 "word": "la fecha",
                 "icon": {
                     "set": "emoji",
-                    "name": "U+1F4C5"
+                    "name": "0x1F4C5"
                 },
                 "partOfSpeech": {
                     "english": "noun",
@@ -265,7 +265,7 @@
                 "word": "la ciudad",
                 "icon": {
                     "set": "emoji",
-                    "name": "U+1F3D9"
+                    "name": "0x1F3D9"
                 },
                 "partOfSpeech": {
                     "english": "noun",
@@ -330,7 +330,7 @@
                 "word": "el abuelo/la abuela",
                 "icon": {
                     "set": "emoji",
-                    "name": "U+1F9D3"
+                    "name": "0x1F9D3"
                 },
                 "partOfSpeech": {
                     "english": "noun",
@@ -345,7 +345,7 @@
                 "word": "el bisabuelo/la bisabuela",
                 "icon": {
                     "set": "emoji",
-                    "name": "U+1F9D3"
+                    "name": "0x1F9D3"
                 },
                 "partOfSpeech": {
                     "english": "noun",
@@ -357,10 +357,10 @@
                 }
             },
             {
-                "word": "el padre/papá/papi",
+                "word": "el padre",
                 "icon": {
-                    "set": "",
-                    "name": ""
+                    "set": "emoji",
+                    "name": "0x1f468"
                 },
                 "partOfSpeech": {
                     "english": "noun",
@@ -372,10 +372,25 @@
                 }
             },
             {
+                "word": "papá/papi",
+                "icon": {
+                    "set": "emoji",
+                    "name": "0x1f468"
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": ["colloquial of dad"],
+                    "spanish": ["coloquial de padre"]
+                }
+            },
+            {
                 "word": "el padrastro",
                 "icon": {
-                    "set": "",
-                    "name": ""
+                    "set": "emoji",
+                    "name": "0x1f468"
                 },
                 "partOfSpeech": {
                     "english": "noun",
@@ -387,10 +402,10 @@
                 }
             },
             {
-                "word": "padrino",
+                "word": "el padrino",
                 "icon": {
-                    "set": "",
-                    "name": ""
+                    "set": "emoji",
+                    "name": "0x1f468"
                 },
                 "partOfSpeech": {
                     "english": "noun",
@@ -402,25 +417,40 @@
                 }
             },
             {
-                "word": "la madre/mamá/mami",
+                "word": "la madre",
                 "icon": {
-                    "set": "",
-                    "name": ""
+                    "set": "emoji",
+                    "name": "0x1F469"
                 },
                 "partOfSpeech": {
                     "english": "noun",
                     "spanish": "nombre femenino"
                 },
                 "definition": {
-                    "english": ["a womman in relation to his child or children"],
+                    "english": ["a woman in relation to his child or children"],
                     "spanish": ["hembra que ha concebido o ha parido uno o más hijos"]
+                }
+            },
+            {
+                "word": "mamá/mami",
+                "icon": {
+                    "set": "emoji",
+                    "name": "0x1F469"
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": ["colloquial of mom"],
+                    "spanish": ["coloquial de madre"]
                 }
             },
             {
                 "word": "la madrastra",
                 "icon": {
-                    "set": "",
-                    "name": ""
+                    "set": "emoji",
+                    "name": "0x1F469"
                 },
                 "partOfSpeech": {
                     "english": "noun",
@@ -432,10 +462,10 @@
                 }
             },
             {
-                "word": "madrina",
+                "word": "la madrina",
                 "icon": {
-                    "set": "",
-                    "name": ""
+                    "set": "emoji",
+                    "name": "0x1F469"
                 },
                 "partOfSpeech": {
                     "english": "noun",
@@ -449,271 +479,250 @@
             {
                 "word": "el marido",
                 "icon": {
-                    "set": "",
-                    "name": ""
+                    "set": "emoji",
+                    "name": "0x1F935"
                 },
                 "partOfSpeech": {
-                    "english": "",
-                    "spanish": ""
+                    "english": "noun",
+                    "spanish": "nombre masculino"
                 },
                 "definition": {
-                    "english": [],
+                    "english": ["married man in relation to his partner"],
                     "spanish": ["hombre casado, con relación a su cónyuge"]
                 }
             },
             {
                 "word": "la mujer",
                 "icon": {
-                    "set": "",
-                    "name": ""
+                    "set": "emoji",
+                    "name": "0x1F470"
                 },
                 "partOfSpeech": {
-                    "english": "",
-                    "spanish": ""
+                    "english": "noun",
+                    "spanish": "nombre femenino"
                 },
                 "definition": {
-                    "english": [],
+                    "english": ["married woman in relation to her partner"],
                     "spanish": ["mujer casada, con relación a su cónyuge"]
                 }
             },
             {
                 "word": "el esposo/la esposa",
                 "icon": {
-                    "set": "",
-                    "name": ""
+                    "set": "emoji",
+                    "name": "0x1F48D"
                 },
                 "partOfSpeech": {
-                    "english": "",
-                    "spanish": ""
+                    "english": "noun",
+                    "spanish": "nombre masculino o femenino"
                 },
                 "definition": {
-                    "english": [],
+                    "english": ["married person in relation to their partner"],
                     "spanish": ["persona casada, con relación a su cónyuge"]
                 }
             },
             {
                 "word": "el suegro/la suegra",
-                "icon": {
-                    "set": "",
-                    "name": ""
-                },
+                "icon": null,
                 "partOfSpeech": {
-                    "english": "",
-                    "spanish": ""
+                    "english": "noun",
+                    "spanish": "nombre masculino o femenino"
                 },
                 "definition": {
-                    "english": [],
-                    "spanish": []
+                    "english": ["the parent of someone's partner"],
+                    "spanish": ["padre o madre del cónyuge de una persona"]
                 }
             },
             {
                 "word": "el yerno",
-                "icon": {
-                    "set": "",
-                    "name": ""
-                },
+                "icon": null,
                 "partOfSpeech": {
-                    "english": "",
-                    "spanish": ""
+                    "english": "noun",
+                    "spanish": "nombre masculino"
                 },
                 "definition": {
-                    "english": [],
-                    "spanish": []
+                    "english": ["the masculine partner of someone's child"],
+                    "spanish": ["cónyuge masculino de el hijo o la hija de una persona"]
                 }
             },
             {
                 "word": "la nuera",
-                "icon": {
-                    "set": "",
-                    "name": ""
-                },
+                "icon": null,
                 "partOfSpeech": {
-                    "english": "",
-                    "spanish": ""
+                    "english": "noun",
+                    "spanish": "nombre femenino"
                 },
                 "definition": {
-                    "english": [],
-                    "spanish": []
+                    "english": ["the feminine partner of someone's child"],
+                    "spanish": ["cónyuge femenino de el hijo o la hija de una persona"]
                 }
             },
             {
                 "word": "el compañero/la compañera",
                 "icon": {
-                    "set": "",
-                    "name": ""
+                    "set": "material",
+                    "name": "diversity_2"
                 },
                 "partOfSpeech": {
-                    "english": "",
-                    "spanish": ""
+                    "english": "noun",
+                    "spanish": "nombre masculino o femenino"
                 },
                 "definition": {
-                    "english": [],
-                    "spanish": []
+                    "english": ["someone who accompanies another person to some end"],
+                    "spanish": ["persona que se acompaña con otra para algún fin"]
                 }
             },
             {
                 "word": "la pareja",
                 "icon": {
-                    "set": "",
-                    "name": ""
+                    "set": "emoji",
+                    "name": "0x1F46B"
                 },
                 "partOfSpeech": {
-                    "english": "",
-                    "spanish": ""
+                    "english": "noun",
+                    "spanish": "nombre femenino"
                 },
                 "definition": {
-                    "english": [],
-                    "spanish": []
+                    "english": [
+                        "a set of two things used together or regarded as a unit",
+                        "either of a set of two things that form a pair, in relation to the other"
+                    ],
+                    "spanish": [
+                        "conjunto de dos personas, animales o cosas que tienen entre sí alguna correlación o semejanza",
+                        "cada una de las personas, animales o cosas que forman una pareja, considerada en relación con la otra"
+                    ]
                 }
             },
             {
                 "word": "el novio/la novia",
                 "icon": {
-                    "set": "",
-                    "name": ""
+                    "set": "emoji",
+                    "name": "0x1F491"
                 },
                 "partOfSpeech": {
-                    "english": "",
-                    "spanish": ""
+                    "english": "noun",
+                    "spanish": "nombre masculino o femenino"
                 },
                 "definition": {
-                    "english": [],
-                    "spanish": []
+                    "english": [
+                        "person that maintains a romantic relationship with another",
+                        "person who is going to be married or has just been married"
+                    ],
+                    "spanish": [
+                        "persona que mantiene una relación amorosa con otra",
+                        "persona que va a casarse o acaba de casarse"
+                    ]
                 }
             },
             {
                 "word": "el hijo/la hija",
                 "icon": {
-                    "set": "",
-                    "name": ""
+                    "set": "emoji",
+                    "name": "0x1F9D2"
                 },
                 "partOfSpeech": {
-                    "english": "",
-                    "spanish": ""
+                    "english": "noun",
+                    "spanish": "nombre masculino o femenino"
                 },
                 "definition": {
-                    "english": [],
-                    "spanish": []
+                    "english": ["a person or animal in relation to their parent"],
+                    "spanish": ["persona o animal en respecto a sus padres"]
                 }
             },
             {
                 "word": "el ahijado/la ahijada",
-                "icon": {
-                    "set": "",
-                    "name": ""
-                },
+                "icon": null,
                 "partOfSpeech": {
-                    "english": "",
-                    "spanish": ""
+                    "english": "noun",
+                    "spanish": "nombre masculino o femenino"
                 },
                 "definition": {
-                    "english": [],
-                    "spanish": []
+                    "english": ["a person in relation to their godparent"],
+                    "spanish": ["persona que es apadrinada o amadrinada por otra"]
                 }
             },
             {
                 "word": "el hermano/la hermana",
-                "icon": {
-                    "set": "",
-                    "name": ""
-                },
+                "icon": null,
                 "partOfSpeech": {
-                    "english": "",
-                    "spanish": ""
+                    "english": "noun",
+                    "spanish": "nombre masculino o femenino"
                 },
                 "definition": {
-                    "english": [],
-                    "spanish": []
+                    "english": ["person or animal that has at least one parent in common with another"],
+                    "spanish": ["persona o animal que tiene en común con otra por lo menos uno de sus padre"]
                 }
             },
             {
                 "word": "el tío/la tía",
-                "icon": {
-                    "set": "",
-                    "name": ""
-                },
+                "icon": null,
                 "partOfSpeech": {
-                    "english": "",
-                    "spanish": ""
+                    "english": "noun",
+                    "spanish": "nombre masculino o femenino"
                 },
                 "definition": {
-                    "english": [],
-                    "spanish": []
+                    "english": ["the sibling of someone's parent"],
+                    "spanish": ["hermano de uno de los padres de una persona"]
                 }
             },
             {
                 "word": "tito/tita/tití",
-                "icon": {
-                    "set": "",
-                    "name": ""
-                },
+                "icon": null,
                 "partOfSpeech": {
-                    "english": "",
-                    "spanish": ""
+                    "english": "noun",
+                    "spanish": "nombre masculino o femenino"
                 },
                 "definition": {
-                    "english": [],
-                    "spanish": []
+                    "english": ["colloquial of uncle/aunt"],
+                    "spanish": ["coloquial de tío/tía"]
                 }
             },
             {
                 "word": "el tío abuelo/la tía abuela",
-                "icon": {
-                    "set": "",
-                    "name": ""
-                },
+                "icon": null,
                 "partOfSpeech": {
-                    "english": "",
-                    "spanish": ""
+                    "english": "noun",
+                    "spanish": "nombre masculino o femenino"
                 },
                 "definition": {
-                    "english": [],
-                    "spanish": []
+                    "english": ["the sibling of someone's grandparent"],
+                    "spanish": ["hermano de uno de los abuelos de una persona"]
                 }
             },
             {
                 "word": "el primo/la prima",
-                "icon": {
-                    "set": "",
-                    "name": ""
-                },
+                "icon": null,
                 "partOfSpeech": {
-                    "english": "",
-                    "spanish": ""
+                    "english": "noun",
+                    "spanish": "nombre masculino o femenino"
                 },
                 "definition": {
-                    "english": [],
-                    "spanish": []
+                    "english": ["child of someone's uncle or aunt"],
+                    "spanish": ["hijo o hija de los tíos de una persona"]
                 }
             },
             {
                 "word": "el sobrino/la sobrina",
-                "icon": {
-                    "set": "",
-                    "name": ""
-                },
+                "icon": null,
                 "partOfSpeech": {
-                    "english": "",
-                    "spanish": ""
+                    "english": "noun",
+                    "spanish": "nombre masculino o femenino"
                 },
                 "definition": {
-                    "english": [],
-                    "spanish": []
+                    "english": ["child of someone's sibling"],
+                    "spanish": ["hijo o hija de uno de los hermanos de una persona"]
                 }
             },
             {
-                "word": "el nieto/ la nieta",
-                "icon": {
-                    "set": "",
-                    "name": ""
-                },
+                "word": "el nieto/la nieta",
+                "icon": null,
                 "partOfSpeech": {
-                    "english": "",
-                    "spanish": ""
+                    "english": "noun",
+                    "spanish": "nombre masculino o femenino"
                 },
                 "definition": {
-                    "english": [],
-                    "spanish": []
+                    "english": ["child of someone's child"],
+                    "spanish": ["hijo o hija de uno de los hijos de una persona"]
                 }
             }
         ]

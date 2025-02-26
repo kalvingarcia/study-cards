@@ -99,18 +99,18 @@ export default function FlashCard({icon, word, partOfSpeech, definition, categor
                 </div>
                 <div className={cx(classes.side, classes.back)}>
                     <div className={classes.pictionary}>
-                        {icon && icon.set === "emoji" && <i className={classes.icon}>{String.fromCodePoint("0x" + icon.name.slice(2))}</i>}
+                        {icon && icon.set === "emoji" && <i className={classes.icon}>{String.fromCodePoint(icon.name)}</i>}
                         {icon && icon.set === "material" && <i className={cx('material-symbols-rounded', classes.icon)}>{icon.name}</i>}
                     </div>
                     <div className={classes.dictionary}>
                         <span className={classes.partOfSpeech}>{partOfSpeech[language]}</span>
-                        {icon && definition && <ol className={classes.definitionList}>
+                        {category !== "los numeros" && definition && <ol className={classes.definitionList}>
                             {definition[language].map((definition, index) => (
                                 <li key={index}>{definition}</li>
                             ))}
                         </ol>}
                         {icon && icon.set === "color" && <div className={classes.color} style={{backgroundColor: icon.name}} />}
-                        {!icon && definition && <span className={classes.number}>{definition[language][0]}</span>}
+                        {category === "los numeros" && definition && <span className={classes.number}>{definition[language][0]}</span>}
                     </div>
                 </div>
             </div>

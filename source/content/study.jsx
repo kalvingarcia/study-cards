@@ -35,7 +35,13 @@ export default function Study({}) {
             if(studyCategories.includes(category))
                 for(const word of words)
                     generatedWords.push({...word, category});
-        setWords(generatedWords);
+        const randomizedWords = [];
+        while(generatedWords.length > 0) {
+            const randomIndex = Math.floor(Math.random() * generatedWords.length);
+            randomizedWords.push(generatedWords[randomIndex]);
+            generatedWords.splice(randomIndex, 1);
+        }
+        setWords(randomizedWords);
     }, [studyCategories]);
 
 

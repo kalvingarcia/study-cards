@@ -1,7 +1,7 @@
 import React, {createContext, useContext, useEffect, useRef, useState} from 'react';
 import {createTss, GlobalStyles} from 'tss-react';
 import Color from 'color';
-import 'material-icons/iconfont/material-icons.css';
+import 'material-symbols';
 
 // The colors for the default palette.
 const oxford = "#011638";

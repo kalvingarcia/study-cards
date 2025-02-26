@@ -6,7 +6,7 @@
                 "word": "el nombre",
                 "icon": {
                     "set": "material",
-                    "name": "badge"
+                    "name": "id_card"
                 },
                 "partOfSpeech": {
                     "english": "noun",
@@ -1031,18 +1031,6 @@
                 "definition": {
                     "english": ["1,000,000"],
                     "spanish": ["1,000,000"]
-                }
-            },
-            {
-                "word": "billón",
-                "icon": null,
-                "partOfSpeech": {
-                    "english": "adjective",
-                    "spanish": "adjetivo"
-                },
-                "definition": {
-                    "english": ["1,000,000,000,000"],
-                    "spanish": ["1,000,000,000,000"]
                 }
             }
         ]

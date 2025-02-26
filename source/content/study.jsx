@@ -12,7 +12,8 @@ const useStyles = tss.create(({theme}) => ({
         width: "100%",
         height: "100vh",
         display: "flex",
-        justifyContent: "space-between",
+        alignItems: "center",
+        justifyContent: "space-between"
     },
     stack: {
         width: "100%",
@@ -26,7 +27,9 @@ const useStyles = tss.create(({theme}) => ({
 export default function Study({}) {
     const {studyCategories} = useStudy();
     const [words, setWords] = useState([]);
+    const [current, setCurrent] = useState(0);
     useEffect(() => {
+        setCurrent(0);
         const generatedWords = [];
         for(const {category, words} of categoryList)
             if(studyCategories.includes(category))
@@ -35,18 +38,21 @@ export default function Study({}) {
         setWords(generatedWords);
     }, [studyCategories]);
 
-    const [current, setCurrent] = useState(0);
 
     const {classes} = useStyles({});
     return (
         <div className={classes.study}>
-            <Button appearance="tonal" onClick={() => setCurrent(current - 1 < 0? 0 : current - 1)}><</Button>
+            <Button appearance="tonal" onClick={() => setCurrent(current - 1 < 0? 0 : current - 1)}>
+                <i className='material-symbols-rounded'>chevron_left</i>
+            </Button>
             <div className={classes.stack}>
                 {words.map((word, index) => (
                     <FlashCard key={index} {...word} language="english" />
                 ))[current]}
             </div>
-            <Button onClick={() => setCurrent(current + 1 >= words.length? words.length - 1 : current + 1)}>></Button>
+            <Button onClick={() => setCurrent(current + 1 >= words.length? words.length - 1 : current + 1)}>
+                <i className='material-symbols-rounded'>chevron_right</i>
+            </Button>
         </div>
     );
 }

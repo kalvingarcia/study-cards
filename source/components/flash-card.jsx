@@ -3,8 +3,9 @@ import {tss} from './common/theme';
 
 const useStyles = tss.create(({theme, flip}) => ({
     flashCard: {
-        width: "400px",
-        height: "250px",
+        userSelect: "none",
+        width: "500px",
+        height: "300px",
         perspective: "1000px",
     },
     container: {
@@ -44,6 +45,13 @@ const useStyles = tss.create(({theme, flip}) => ({
         color: theme.tertiary.onContainer.hex(),
         border: `1pt solid ${theme.tertiary.onContainer.alpha(0.5).hexa()}`,
         borderRadius: "2000px"
+    },
+    word: {
+        fontSize: "1.5rem"
+    },
+    icon: {
+        fontSize: "80px",
+        fontStyle: "normal"
     }
 }));
 
@@ -56,9 +64,13 @@ export default function FlashCard({icon, word, partOfSpeech, definition, categor
             <div className={classes.container}>
                 <div className={classes.side}>
                     <span className={classes.category}>{category}</span>
-                    <span>{word}</span>
+                    <span className={classes.word}>{word}</span>
                 </div>
                 <div className={cx(classes.side, classes.back)}>
+                    <div className={classes.pictionary}>
+                        {icon.set === "emoji" && <i className={classes.icon}>{String.fromCodePoint("0x" + icon.name.slice(2))}</i>}
+                        {icon.set === "material" && <i className={cx('material-icons', classes.icon)}>{icon.name}</i>}
+                    </div>
                     <div className={classes.dictionary}>
                         <span>{partOfSpeech[language]}</span>
                         <ol className={classes.definitionList}>

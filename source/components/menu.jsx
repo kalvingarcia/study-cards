@@ -12,12 +12,10 @@ const useStyles = tss.create(({theme}) => ({
         display: "flex",
         flexDirection: "column",
         gap: "20px",
-        overflowY: "auto",
-        scrollbarGutter: "stable",
         backgroundColor: theme.neutral.container.hex(),
 
         "@media (max-width: 1100px)": {
-            height: "400px",
+            height: "250px",
             width: "100%"
         }
     },
@@ -30,6 +28,8 @@ const useStyles = tss.create(({theme}) => ({
         display: "flex",
         flexWrap: "wrap",
         gap: "10px",
+        overflowY: "auto",
+        scrollbarGutter: "stable",
     }
 }));
 

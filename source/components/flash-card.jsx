@@ -9,8 +9,8 @@ const useStyles = tss.create(({theme, flip}) => ({
         perspective: "1000px",
 
         "@media (max-width: 1100px)": {
-            height: "600px",
-            width: "400px"
+            height: "500px",
+            width: "300px"
         }
     },
     container: {

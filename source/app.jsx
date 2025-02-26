@@ -4,33 +4,22 @@ import {HashRouter, Route, Routes} from 'react-router';
 import {GlobalStyles} from 'tss-react';
 import ThemeProvider from './components/common/theme';
 import Layout from './components/layout';
-import Test from './content/test';
-import Home from './content/home';
-import AtkinsonNormal from '../public/fonts/AtkinsonNormal.woff2';
-import AtkinsonItalic from '../public/fonts/AtkinsonItalic.woff2';
+import Study from './content/study';
 
 function App() {
     return (
         <ThemeProvider>
-            <GlobalStyles styles={{
-                "@font": {
-                    fontFamily: "AtkinsonNOormal",
-                    src: `url(${AtkinsonNormal})`,
-                    fontStyle: "normal",
-                },
-                "@font": {
-                    fontFamily: "AtkinsonItalic",
-                    src: `url(${AtkinsonItalic})`,
-                    fontStyle: "italic",
-                },
-                "html, body": {
-                    fontFamily: "AtkinsonNormal"
+            <GlobalStyles styles={`
+                @import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:ital,wght@0,200..800;1,200..800&display=swap');
+                html, body {
+                    font-family: "Atkinson Hyperlegible Next", serif;
+                    font-style: normal;
                 }
-            }} />
+            `} />
             <HashRouter>
                 <Routes>
                     <Route element={<Layout />}>
-                        <Route path="/" element={<Test />} />
+                        <Route path="/" element={<Study />} />
                     </Route>
                 </Routes>
             </HashRouter>

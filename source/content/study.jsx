@@ -8,15 +8,18 @@ import categoryList from '../../public/words.json';
 const useStyles = tss.create(({theme}) => ({
     study: {
         flex: "1 1 auto",
+        padding: "40px",
         width: "100%",
         height: "100vh",
         display: "flex",
         flexDirection: "column",
-        gap: '40px'
+        justifyContent: "space-between",
     },
     stack: {
         width: "100%",
+        height: "100%",
         display: "flex",
+        alignItems: "center",
         justifyContent: "center"
     },
     buttons: {

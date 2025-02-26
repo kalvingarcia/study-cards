@@ -12,7 +12,14 @@ const useStyles = tss.create(({theme}) => ({
         display: "flex",
         flexDirection: "column",
         gap: "20px",
-        backgroundColor: theme.neutral.container.hex()
+        overflowY: "auto",
+        scrollbarGutter: "stable",
+        backgroundColor: theme.neutral.container.hex(),
+
+        "@media (max-width: 1100px)": {
+            height: "400px",
+            width: "100%"
+        }
     },
     title: {
         fontSize: "1.5rem"

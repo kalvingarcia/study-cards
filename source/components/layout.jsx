@@ -9,12 +9,15 @@ const useStyles = tss.create(({theme}) => ({
         width: "100%",
         height: "100%",
         display: "flex",
+        flexDirection: "row",
+
+        "@media (max-width: 1100px)": {
+            flexDirection: "column-reverse"
+        }
     }
 }));
 
 export default function Layout({}) {
-    
-
     const {classes} = useStyles({});
     return (
         <StudyProvider>

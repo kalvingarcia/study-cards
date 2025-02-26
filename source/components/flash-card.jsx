@@ -7,6 +7,11 @@ const useStyles = tss.create(({theme, flip}) => ({
         width: "500px",
         height: "300px",
         perspective: "1000px",
+
+        "@media (max-width: 1100px)": {
+            height: "600px",
+            width: "400px"
+        }
     },
     container: {
         position: "relative",
@@ -29,11 +34,16 @@ const useStyles = tss.create(({theme, flip}) => ({
         WebkitBackfaceVisibility: "hidden", /* Safari */
         backfaceVisibility: "hidden",
         borderRadius: "20px",
-        backgroundColor: theme.neutral.container.hex()
+        backgroundColor: theme.neutral.container.hex(),
+
+        "@media (max-width: 1100px)": {
+            flexDirection: "column"
+        }
     },
     back: {
         backgroundColor: theme.neutral.containerHigh.hex(),
-        transform: "rotateY(180deg)"
+        transform: "rotateY(180deg)",
+        gap: "20px"
     },
     category: {
         position: "absolute",
@@ -49,9 +59,30 @@ const useStyles = tss.create(({theme, flip}) => ({
     word: {
         fontSize: "1.5rem"
     },
+    pictionary: {
+        width: "fit-content"
+    },
     icon: {
         fontSize: "80px",
         fontStyle: "normal"
+    },
+    dictionary: {
+        display: "flex",
+        flexDirection: "column",
+        gap: "5px",
+        alignItems: "center",
+        justifyContent: "center"
+    },
+    partOfSpeech: {
+        alignSelf: "flex-start"
+    },
+    color: {
+        width: "80px",
+        height: "80px"
+    },
+    number: {
+        fontSize: "50px",
+        fontWeight: "bold"
     }
 }));
 
@@ -68,16 +99,18 @@ export default function FlashCard({icon, word, partOfSpeech, definition, categor
                 </div>
                 <div className={cx(classes.side, classes.back)}>
                     <div className={classes.pictionary}>
-                        {icon.set === "emoji" && <i className={classes.icon}>{String.fromCodePoint("0x" + icon.name.slice(2))}</i>}
-                        {icon.set === "material" && <i className={cx('material-icons', classes.icon)}>{icon.name}</i>}
+                        {icon && icon.set === "emoji" && <i className={classes.icon}>{String.fromCodePoint("0x" + icon.name.slice(2))}</i>}
+                        {icon && icon.set === "material" && <i className={cx('material-symbols-rounded', classes.icon)}>{icon.name}</i>}
                     </div>
                     <div className={classes.dictionary}>
-                        <span>{partOfSpeech[language]}</span>
-                        <ol className={classes.definitionList}>
+                        <span className={classes.partOfSpeech}>{partOfSpeech[language]}</span>
+                        {icon && definition && <ol className={classes.definitionList}>
                             {definition[language].map((definition, index) => (
                                 <li key={index}>{definition}</li>
                             ))}
-                        </ol>
+                        </ol>}
+                        {icon && icon.set === "color" && <div className={classes.color} style={{backgroundColor: icon.name}} />}
+                        {!icon && definition && <span className={classes.number}>{definition[language][0]}</span>}
                     </div>
                 </div>
             </div>

@@ -202,7 +202,6 @@ export default function ThemeProvider({darkModeDefault = true, themeDefault = "d
             maxWidth: "100%",
             height: "100%",
             overflowX: "hidden",
-            minHeight: "100vh",
             lineHeight: 1,
             overscrollBehavior: "none", // This part was specifically to avoid MacOS overscroll, which was bugging me.
             fontWeight: "400",

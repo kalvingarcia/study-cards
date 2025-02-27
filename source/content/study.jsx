@@ -10,7 +10,7 @@ const useStyles = tss.create(({theme}) => ({
         flex: "1 1 auto",
         padding: "40px",
         width: "100%",
-        height: "100vh",
+        height: "100%",
         display: "flex",
         flexDirection: "column",
         alignItems: "center",

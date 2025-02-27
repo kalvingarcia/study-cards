@@ -1,5 +1,6 @@
 import React, {useState} from 'react';
 import {tss} from './common/theme';
+import '../../public/assets/geometry-font.css';
 
 const useStyles = tss.create(({theme, flip}) => ({
     flashCard: {
@@ -101,6 +102,7 @@ export default function FlashCard({icon, word, partOfSpeech, definition, categor
                     <div className={classes.pictionary}>
                         {icon && icon.set === "emoji" && <i className={classes.icon}>{String.fromCodePoint(icon.name)}</i>}
                         {icon && icon.set === "material" && <i className={cx('material-symbols-rounded', classes.icon)}>{icon.name}</i>}
+                        {icon && icon.set === "geometry" && <i className={cx('geometry-icons', classes.icon)}>{icon.name}</i>}
                     </div>
                     <div className={classes.dictionary}>
                         <span className={classes.partOfSpeech}>{partOfSpeech[language]}</span>

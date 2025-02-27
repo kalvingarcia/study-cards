@@ -66,7 +66,7 @@
                 }
             },
             {
-                "word": "el homre",
+                "word": "el hombre",
                 "icon": {
                     "set": "emoji",
                     "name": "0x1F9D4"
@@ -1271,271 +1271,241 @@
             {
                 "word": "el círculo",
                 "icon": {
-                    "set": "",
-                    "name": ""
+                    "set": "geometry",
+                    "name": "circle"
                 },
                 "partOfSpeech": {
-                    "english": "",
-                    "spanish": ""
+                    "english": "noun",
+                    "spanish": "nombre masculino"
                 },
                 "definition": {
-                    "english": [],
-                    "spanish": []
+                    "english": ["area or plane contained within a circumference"],
+                    "spanish": ["área o superficie plana contenida dentro de una circunferencia"]
                 }
             },
             {
                 "word": "el semicírculo",
                 "icon": {
-                    "set": "",
-                    "name": ""
+                    "set": "geometry",
+                    "name": "semi_circle"
                 },
                 "partOfSpeech": {
-                    "english": "",
-                    "spanish": ""
+                    "english": "noun",
+                    "spanish": "nombre masculino"
                 },
                 "definition": {
-                    "english": [],
-                    "spanish": []
+                    "english": ["a portion of a circle which is divided by its diameter"],
+                    "spanish": ["una de las porciones en que queda dividido un círculo por su diámetro"]
                 }
             },
             {
                 "word": "el óvulo",
                 "icon": {
-                    "set": "",
-                    "name": ""
+                    "set": "geometry",
+                    "name": "oval"
                 },
                 "partOfSpeech": {
-                    "english": "",
-                    "spanish": ""
+                    "english": "noun",
+                    "spanish": "nombre masculino"
                 },
                 "definition": {
-                    "english": [],
-                    "spanish": []
+                    "english": ["area or plane contained within a closed round curve"],
+                    "spanish": ["área o superficie plana contenida dentro de una curva cerrada y redondeada"]
                 }
             },
             {
                 "word": "el triángulo",
                 "icon": {
-                    "set": "",
-                    "name": ""
+                    "set": "geometry",
+                    "name": "triangle"
                 },
                 "partOfSpeech": {
-                    "english": "",
-                    "spanish": ""
+                    "english": "noun",
+                    "spanish": "nombre masculino"
                 },
                 "definition": {
-                    "english": [],
-                    "spanish": []
+                    "english": ["polygon with three angles and three sides"],
+                    "spanish": ["polígono de tres ángulos y tres lados"]
                 }
             },
             {
                 "word": "el rectángulo",
                 "icon": {
-                    "set": "",
-                    "name": ""
+                    "set": "geometry",
+                    "name": "rectangle"
                 },
                 "partOfSpeech": {
-                    "english": "",
-                    "spanish": ""
+                    "english": "noun",
+                    "spanish": "nombre masculino"
                 },
                 "definition": {
-                    "english": [],
-                    "spanish": []
-                }
-            },
-            {
-                "word": "el romboide",
-                "icon": {
-                    "set": "",
-                    "name": ""
-                },
-                "partOfSpeech": {
-                    "english": "",
-                    "spanish": ""
-                },
-                "definition": {
-                    "english": [],
-                    "spanish": []
+                    "english": ["polygon with four right angles and four sides"],
+                    "spanish": ["polígono de cuatro ángulos rectos y cuatro lados"]
                 }
             },
             {
                 "word": "el cuadrado",
                 "icon": {
-                    "set": "",
-                    "name": ""
+                    "set": "geometry",
+                    "name": "square"
                 },
                 "partOfSpeech": {
-                    "english": "",
-                    "spanish": ""
+                    "english": "noun",
+                    "spanish": "nombre masculino"
                 },
                 "definition": {
-                    "english": [],
-                    "spanish": []
-                }
-            },
-            {
-                "word": "el rombo",
-                "icon": {
-                    "set": "",
-                    "name": ""
-                },
-                "partOfSpeech": {
-                    "english": "",
-                    "spanish": ""
-                },
-                "definition": {
-                    "english": [],
-                    "spanish": []
+                    "english": ["polygon with four right angles and four congruent sides"],
+                    "spanish": ["polígono de cuatro ángulos rectos y cuatro lados congruentes"]
                 }
             },
             {
                 "word": "el trapecio",
                 "icon": {
-                    "set": "",
-                    "name": ""
+                    "set": "geometry",
+                    "name": "trapezoid"
                 },
                 "partOfSpeech": {
-                    "english": "",
-                    "spanish": ""
+                    "english": "noun",
+                    "spanish": "nombre masculino"
                 },
                 "definition": {
-                    "english": [],
-                    "spanish": []
+                    "english": ["irregular quatralateral with only two parallel sides"],
+                    "spanish": ["cuadrilátero irregular que tiene paralelos solamente dos de sus lados"]
                 }
             },
             {
                 "word": "el pentágono",
                 "icon": {
-                    "set": "",
-                    "name": ""
+                    "set": "geometry",
+                    "name": "pentagon"
                 },
                 "partOfSpeech": {
-                    "english": "",
-                    "spanish": ""
+                    "english": "noun",
+                    "spanish": "nombre masculino"
                 },
                 "definition": {
-                    "english": [],
-                    "spanish": []
+                    "english": ["polygon with five angles and five sides"],
+                    "spanish": ["polígono de cinco ángulos y cinco lados"]
                 }
             },
             {
                 "word": "el hexágono",
                 "icon": {
-                    "set": "",
-                    "name": ""
+                    "set": "geometry",
+                    "name": "hexagon"
                 },
                 "partOfSpeech": {
-                    "english": "",
-                    "spanish": ""
+                    "english": "noun",
+                    "spanish": "nombre masculino"
                 },
                 "definition": {
-                    "english": [],
-                    "spanish": []
+                    "english": ["polygon with six angles and six sides"],
+                    "spanish": ["polígono de seis ángulos y seis lados"]
                 }
             },
             {
                 "word": "la estrella",
                 "icon": {
-                    "set": "",
-                    "name": ""
+                    "set": "geometry",
+                    "name": "star"
                 },
                 "partOfSpeech": {
-                    "english": "",
-                    "spanish": ""
+                    "english": "noun",
+                    "spanish": "nombre femenino"
                 },
                 "definition": {
-                    "english": [],
-                    "spanish": []
+                    "english": ["figure with points that part from a common center"],
+                    "spanish": ["figura con rayos que parten de un centro común"]
                 }
             },
             {
                 "word": "la esfera",
                 "icon": {
-                    "set": "",
-                    "name": ""
+                    "set": "geometry",
+                    "name": "sphere"
                 },
                 "partOfSpeech": {
-                    "english": "",
-                    "spanish": ""
+                    "english": "noun",
+                    "spanish": "nombre femenino"
                 },
                 "definition": {
-                    "english": [],
-                    "spanish": []
+                    "english": ["curved surface whose points are all equidistant from a point called center"],
+                    "spanish": ["superficie curva formada por los puntos que equidistan de otro interior llamado centro"]
                 }
             },
             {
                 "word": "el cilindro",
                 "icon": {
-                    "set": "",
-                    "name": ""
+                    "set": "geometry",
+                    "name": "cylinder"
                 },
                 "partOfSpeech": {
-                    "english": "",
-                    "spanish": ""
+                    "english": "noun",
+                    "spanish": "nombre masculino"
                 },
                 "definition": {
-                    "english": [],
-                    "spanish": []
+                    "english": ["geometric body contained by a closed surface and two circular bases"],
+                    "spanish": ["cuerpo geométrico limitado por una superficie cerrada y dos bases circular"]
                 }
             },
             {
                 "word": "el pirámide",
                 "icon": {
-                    "set": "",
-                    "name": ""
+                    "set": "geometry",
+                    "name": "pyramid"
                 },
                 "partOfSpeech": {
-                    "english": "",
-                    "spanish": ""
+                    "english": "noun",
+                    "spanish": "nombre masculino"
                 },
                 "definition": {
-                    "english": [],
-                    "spanish": []
+                    "english": ["solid that has a polygon for a base and whose faces, which equal the number of sides, are triangles that meet at a singular point"],
+                    "spanish": ["sólido que tiene por base un polígono y cuyas caras, tantas en número como los lados de aquel, son triángulos que se juntan en un solo punto"]
                 }
             },
             {
                 "word": "el cono",
                 "icon": {
-                    "set": "",
-                    "name": ""
+                    "set": "geometry",
+                    "name": "cone"
                 },
                 "partOfSpeech": {
-                    "english": "",
-                    "spanish": ""
+                    "english": "noun",
+                    "spanish": "nombre masculino"
                 },
                 "definition": {
-                    "english": [],
-                    "spanish": []
+                    "english": ["solid contained by a plane that cuts a conical closed surface"],
+                    "spanish": ["sólido limitado por un plano que corta a una superficie cónica cerrada"]
                 }
             },
             {
                 "word": "la prisma",
                 "icon": {
-                    "set": "",
-                    "name": ""
+                    "set": "geometry",
+                    "name": "prism"
                 },
                 "partOfSpeech": {
-                    "english": "",
-                    "spanish": ""
+                    "english": "noun",
+                    "spanish": "nombre femenino"
                 },
                 "definition": {
-                    "english": [],
-                    "spanish": []
+                    "english": ["body contained by two parallel and congruent polygons, and as many parallelograms as sides of the bases"],
+                    "spanish": ["cuerpo limitado por dos polígonos planos, paralelos e iguales, y por tantos paralelogramos cuantos lados tengan los bases"]
                 }
             },
             {
                 "word": "el cubo",
                 "icon": {
-                    "set": "",
-                    "name": ""
+                    "set": "geometry",
+                    "name": "cube"
                 },
                 "partOfSpeech": {
-                    "english": "",
-                    "spanish": ""
+                    "english": "noun",
+                    "spanish": "nombre masculino"
                 },
                 "definition": {
-                    "english": [],
-                    "spanish": []
+                    "english": ["solid contained by six square sides"],
+                    "spanish": ["sólido regular limitado por seis cuadrados iguales"]
                 }
             }
         ]

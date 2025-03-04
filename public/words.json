@@ -1,5 +1,280 @@
 [
     {
+        "category": "las preposiciones",
+        "words": [
+            {
+                "word": "a",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "preposition",
+                    "spanish": "preposición"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "ante",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "preposition",
+                    "spanish": "preposición"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "bajo",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "preposition",
+                    "spanish": "preposición"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "con",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "preposition",
+                    "spanish": "preposición"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "contra",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "preposition",
+                    "spanish": "preposición"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "de",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "preposition",
+                    "spanish": "preposición"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "desde",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "preposition",
+                    "spanish": "preposición"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "en",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "preposition",
+                    "spanish": "preposición"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "entre",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "preposition",
+                    "spanish": "preposición"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "hacia",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "preposition",
+                    "spanish": "preposición"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "hasta",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "preposition",
+                    "spanish": "preposición"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "para",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "preposition",
+                    "spanish": "preposición"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "por",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "preposition",
+                    "spanish": "preposición"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "según",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "preposition",
+                    "spanish": "preposición"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "sin",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "preposition",
+                    "spanish": "preposición"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "sobre",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "preposition",
+                    "spanish": "preposición"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "tras",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "preposition",
+                    "spanish": "preposición"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "vía",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "preposition",
+                    "spanish": "preposición"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            }
+        ]
+    },
+    {
         "category": "la información personal",
         "words": [
             {
@@ -242,6 +517,441 @@
                 }
             },
             {
+                "word": "el mes",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "enero",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre común"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "febrero",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre común"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "marzo",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre común"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "abril",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre común"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "mayo",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre común"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "junio",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre común"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "julio",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre común"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "agosto",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre común"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "septiembre",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre común"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "octubre",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre común"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "noviembre",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre común"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "diciembre",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre común"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "la semana",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el día",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el lunes",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el martes",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el miércoles",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el jueves",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el viernes",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el sabado",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el domingo",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "la mañana",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el mediodía",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "la tarde",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "la noche",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "la medianoche",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "la hora",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el minuto",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
                 "word": "la fecha",
                 "icon": {
                     "set": "emoji",
@@ -254,6 +964,156 @@
                 "definition": {
                     "english": ["the day of the month or year as specified by a number"],
                     "spanish": ["indicación del tiempo, y a veces del lugar, en que se hace o sucede algo", "tiempo o momento actuales"]
+                }
+            },
+            {
+                "word": "hoy",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "adverb",
+                    "spanish": "adverbio"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "ahora",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "adverb",
+                    "spanish": "adverbio"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "mañana",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "adverb",
+                    "spanish": "adverbio"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "ayer",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "adverb",
+                    "spanish": "adverbio"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "anoche",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "adverb",
+                    "spanish": "adverbio"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "anteayer",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "adverb",
+                    "spanish": "adverbio"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "siempre",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "adverb",
+                    "spanish": "adverbio"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "nunca",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "adverb",
+                    "spanish": "adverbio"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "jamás",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "adverb",
+                    "spanish": "adverbio"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "todavía",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "adverb",
+                    "spanish": "adverbio"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
                 }
             }
         ]
@@ -731,7 +1591,7 @@
         "category": "los numeros",
         "words": [
             {
-                "word": "uno/un(a)",
+                "word": "uno",
                 "icon": null,
                 "partOfSpeech": {
                     "english": "adjective",
@@ -1506,6 +2366,1536 @@
                 "definition": {
                     "english": ["solid contained by six square sides"],
                     "spanish": ["sólido regular limitado por seis cuadrados iguales"]
+                }
+            }
+        ]
+    },
+    {
+        "category": "las partes del cuerpo",
+        "words": [
+            {
+                "word": "el cuerpo",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "la piel",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el musculo",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el hueso",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el esqueleto",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el cerebro",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "la cabeza",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el pelo",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "la cara",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el frente",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el oreja",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el ojo",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "la ceja",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "la nariz",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "la boca",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el labio",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "la mejilla",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "la barbilla",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "la lengua",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el diente",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "la muela",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el cuello",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "la garganta",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el hombro",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el brazo",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el codo",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "la muñeca",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "la mano",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el puño",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el dedo",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "la uña",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el pecho",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el pulmón",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el corazón",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "la sangre",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el estómago",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el trasero",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "la cadera",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "la pierna",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el muslo",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "la rodilla",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el tobillo",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el pie",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el dolor",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "doler",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "verb",
+                    "spanish": "verbo"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            }
+        ]
+    },
+    {
+        "category": "los sentidos",
+        "words": [
+            {
+                "word": "el sentido",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "sentir",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "verb",
+                    "spanish": "verbo"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el tacto",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "tocar",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "verb",
+                    "spanish": "verbo"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el calor",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el sudor",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "sudar",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "verb",
+                    "spanish": "verbo"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el frío",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el gusto",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "probar",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "verb",
+                    "spanish": "verbo"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el sabor",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "la vista",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "ver",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "verb",
+                    "spanish": "verbo"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "la mirada",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "mirar",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "verb",
+                    "spanish": "verbo"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el oído",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "oír",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "verb",
+                    "spanish": "verbo"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el ruido",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el olfato",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "holer",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "verb",
+                    "spanish": "verbo"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el olor",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            }
+        ]
+    },
+    {
+        "category": "los sentimientos",
+        "words": [
+            {
+                "word": "el gesto",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "la sonrisa",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "sonreír",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "verb",
+                    "spanish": "verbo"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "sonreírse",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "verb",
+                    "spanish": "verbo reflexivo"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "la risa",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "reír",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "verb",
+                    "spanish": "verbo"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "reírse",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "verb",
+                    "spanish": "verbo reflexivo"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el suspiro",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "suspirar",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "verb",
+                    "spanish": "verbo"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el sentimiento",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "sentirse",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "verb",
+                    "spanish": "verbo reflexivo"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "la felicidad",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "la alegría",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "alegrarse",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "verb",
+                    "spanish": "verbo reflexivo"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "la emoción",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "la tristeza",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "llorar",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "verb",
+                    "spanish": "verbo"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "la rabia",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "enojar",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "verb",
+                    "spanish": "verbo reflexivo"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "enojarse",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "verb",
+                    "spanish": "verbo reflexivo"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "la vergüenza",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "las ganas",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "la preocupacíon",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "preocupar",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "verb",
+                    "spanish": "verbo"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "preocuparse",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "verb",
+                    "spanish": "verbo reflexivo"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "el susto",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre masculino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "asustar",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "verb",
+                    "spanish": "verbo"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "asustarse",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "verb",
+                    "spanish": "verbo reflexivo"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "la duda",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "noun",
+                    "spanish": "nombre femenino"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "dudar",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "verb",
+                    "spanish": "verbo"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            },
+            {
+                "word": "dudarse",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "verb",
+                    "spanish": "verbo reflexivo"
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            }
+        ]
+    },
+    {
+        "category": "los estados y las acciones",
+        "words": [
+            {
+                "word": "",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "",
+                    "spanish": ""
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            }
+        ]
+    },
+    {
+        "category": "las etapas de la vida",
+        "words": [
+            {
+                "word": "",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "",
+                    "spanish": ""
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
+                }
+            }
+        ]
+    },
+    {
+        "category": "el tiempo y el clima",
+        "words": [
+            {
+                "word": "",
+                "icon": {
+                    "set": "",
+                    "name": ""
+                },
+                "partOfSpeech": {
+                    "english": "",
+                    "spanish": ""
+                },
+                "definition": {
+                    "english": [],
+                    "spanish": []
                 }
             }
         ]
